@@ -18,7 +18,7 @@
 ### Forums & chat
 * BitcoinTalk ANN: https://bitcointalk.org/index.php?topic=1934763.0
 * Slack channel (invite only): https://suncontractteam.slack.com
-* * *To receive an invite for the Slack channel, sign up at https://suncontract.org*
+  * *To receive an invite for the Slack channel, sign up at https://suncontract.org*
 
 ### Campaigns:
 * BitcoinTalk signature & avatar campaign: https://bitcointalk.org/index.php?topic=1936212.0
