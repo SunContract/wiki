@@ -10,13 +10,13 @@
 * SunContract White Paper (.pdf): https://suncontract.org/res/whitepaper.pdf
 
 ### Social networks:
-* Facebook: https://www.facebook.com/suncontractorg/
-* Twitter: https://twitter.com/sun_contract
-* LinkedIn: https://www.linkedin.com/company/22304821/
+* [Facebook](https://www.facebook.com/suncontractorg/)
+* [Twitter](https://twitter.com/sun_contract)
+* [LinkedIn](https://www.linkedin.com/company/22304821/)
 
 ### Forums & chat
-* BitcoinTalk ANN: https://bitcointalk.org/index.php?topic=1934763.0
-* Slack channel (invite only): https://suncontractteam.slack.com
+* [BitcoinTalk ANN](https://bitcointalk.org/index.php?topic=1934763.0)
+* [Slack channel - invite only](https://suncontractteam.slack.com)
   * *To receive an invite for the Slack channel, sign up at https://suncontract.org*
 
 ## Contributing:
@@ -26,5 +26,5 @@
 * *Submit issues or feedback regarding SunContract website [here](https://github.com/SunContract/suncontract.github.io/issues)*
 
 ### Campaigns:
-* BitcoinTalk signature & avatar campaign: https://bitcointalk.org/index.php?topic=1936212.0
-* BitcoinTalk Twitter campaign: https://bitcointalk.org/index.php?topic=1936101.0
+* [BitcoinTalk signature & avatar campaign](https://bitcointalk.org/index.php?topic=1936212.0)
+* [BitcoinTalk Twitter campaign](https://bitcointalk.org/index.php?topic=1936101.0)
