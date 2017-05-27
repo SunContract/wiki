@@ -22,8 +22,8 @@
 ## Contributing:
 
 ### GitHub:
-* *Submit issues or feedback regarding White Paper [here](https://github.com/SunContract/wiki/issues)*
-* *Submit issues or feedback regarding SunContract website [here](https://github.com/SunContract/suncontract.github.io/issues)*
+* Submit issues or feedback regarding White Paper [here](https://github.com/SunContract/wiki/issues)
+* Submit issues or feedback regarding SunContract website [here](https://github.com/SunContract/suncontract.github.io/issues)
 
 ### Campaigns:
 * [BitcoinTalk signature & avatar campaign](https://bitcointalk.org/index.php?topic=1936212.0)
