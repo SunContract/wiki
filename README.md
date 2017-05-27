@@ -7,7 +7,7 @@
 * https://suncontract.org
 
 ### Documents
-* SunContract White Paper (.pdf): https://suncontract.org/res/whitepaper.pdf
+* [SunContract White Paper (.pdf)](https://suncontract.org/res/whitepaper.pdf)
 
 ### Social networks:
 * [Facebook](https://www.facebook.com/suncontractorg/)
