@@ -1,3 +1,5 @@
+![SunContract header photo](https://i.imgur.com/W7dAPBP.jpg)
+
 ### Wiki
 Whitepaper
 * SunContract White Paper on GitHub: https://github.com/SunContract/wiki/wiki/White-Paper
