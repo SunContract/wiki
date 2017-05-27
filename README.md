@@ -1,9 +1,8 @@
 ## Wiki
 ### Whitepaper
 * SunContract White Paper on GitHub: https://github.com/SunContract/wiki/wiki/White-Paper
-* *Submit issues or feedback here: https://github.com/SunContract/wiki/issues*
 
-## Other Resources
+## Resources
 ### Official website
 * https://suncontract.org
 
@@ -19,6 +18,12 @@
 * BitcoinTalk ANN: https://bitcointalk.org/index.php?topic=1934763.0
 * Slack channel (invite only): https://suncontractteam.slack.com
   * *To receive an invite for the Slack channel, sign up at https://suncontract.org*
+
+## Contributing:
+
+### GitHub:
+* *Submit issues or feedback regarding White Paper here: https://github.com/SunContract/wiki/issues*
+* *Submit issues or feedback regarding SunContract website here: https://github.com/SunContract/suncontract.github.io*
 
 ### Campaigns:
 * BitcoinTalk signature & avatar campaign: https://bitcointalk.org/index.php?topic=1936212.0
