@@ -1,10 +1,14 @@
+## Wiki
+### Whitepaper
+* SunContract White Paper on GitHub: https://github.com/SunContract/wiki/wiki/White-Paper
+* *Submit issues or feedback here: https://github.com/SunContract/wiki/issues*
+
+## Other Resources
 ### Official website
 * https://suncontract.org
 
-### Whitepaper
-* SunContract White Paper on GitHub: https://github.com/SunContract/wiki/wiki/White-Paper
+### Documents
 * SunContract White Paper (.pdf): https://suncontract.org/res/whitepaper.pdf
-* *Submit issues or feedback here: https://github.com/SunContract/wiki/issues*
 
 ### Social networks:
 * Facebook: https://www.facebook.com/suncontractorg/
