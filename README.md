@@ -1,5 +1,4 @@
-![SunContract header photo](https://i.imgur.com/W7dAPBP.jpg)
-![SunContract header photo2](https://i.imgur.com/YRZPa7r.jpg)
+<center>![SunContract header photo](https://i.imgur.com/W7dAPBP.jpg)</center>
 
 ### Wiki
 Whitepaper
