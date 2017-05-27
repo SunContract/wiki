@@ -1,5 +1,5 @@
 <p align="center">
-![SunContract header photo](https://i.imgur.com/W7dAPBP.jpg)
+<img src="https://i.imgur.com/W7dAPBP.jpg">
 </p>
 
 ### Wiki
