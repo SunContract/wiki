@@ -32,3 +32,6 @@ GitHub:
 Campaigns:
 * [BitcoinTalk signature & avatar campaign](https://bitcointalk.org/index.php?topic=1936212.0)
 * [BitcoinTalk Twitter campaign](https://bitcointalk.org/index.php?topic=1936101.0)
+
+Translations:
+* PM [this profile](https://bitcointalk.org/index.php?action=profile;u=1009934) on BitcoinTalk for translations of ANN or webpage.
