@@ -2,9 +2,9 @@
 <img src="https://i.imgur.com/W7dAPBP.jpg">
 </p>
 
-### Wiki
-Whitepaper
-* SunContract White Paper on GitHub: https://github.com/SunContract/wiki/wiki/White-Paper
+### GitHub Wiki
+* [FAQ](https://github.com/SunContract/wiki/wiki/FAQ)
+* [White Paper](https://github.com/SunContract/wiki/wiki/White-Paper)
 
 ### Resources
 Official website
