@@ -23,7 +23,7 @@ Social networks:
 Forums & chat
 * [BitcoinTalk ANN](https://bitcointalk.org/index.php?topic=1934763.0)
 * [Slack channel - invite only](https://suncontractteam.slack.com)
-  * *To receive an invite for the Slack channel, sign up at https://suncontract.org*
+  * *To receive invite link for the Slack channel, sign up at https://suncontract.org*
 
 ### Contributing:
 
@@ -40,8 +40,8 @@ Translations:
 
 ### Articles in the media:
 
+English:
+
 Slovene:
 * [coin.si](https://coin.si/decentraliziran-energetski-trg-suncontract/)
 * [contelegraph.si](https://cointelegraph.si/news/suncontract-slovenski-blockchain-projekt-za-trgovanje-z-energijo)
-
-English:
