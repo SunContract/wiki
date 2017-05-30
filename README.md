@@ -17,6 +17,7 @@ Social networks:
 * [Facebook](https://www.facebook.com/suncontractorg/)
 * [Twitter](https://twitter.com/sun_contract)
 * [LinkedIn](https://www.linkedin.com/company/22304821/)
+* [Reddit](https://www.reddit.com/r/suncontract/)
 
 Forums & chat
 * [BitcoinTalk ANN](https://bitcointalk.org/index.php?topic=1934763.0)
@@ -35,3 +36,11 @@ Campaigns:
 
 Translations:
 * PM [this profile](https://bitcointalk.org/index.php?action=profile;u=1009934) on BitcoinTalk for translations of ANN or webpage.
+
+### Articles:
+
+Slovene:
+* [coin.si](https://coin.si/decentraliziran-energetski-trg-suncontract/)
+* [contelegraph.si](https://cointelegraph.si/news/suncontract-slovenski-blockchain-projekt-za-trgovanje-z-energijo)
+
+English:
