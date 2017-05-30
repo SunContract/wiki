@@ -11,7 +11,8 @@ Official website
 * https://suncontract.org
 
 Documents
-* [SunContract White Paper (.pdf)](https://suncontract.org/res/whitepaper.pdf)
+* [SunContract whitepaper (.pdf)](https://suncontract.org/res/whitepaper.pdf)
+* SunContract technical whitepaper (.pdf) - coming soon
 
 Social networks:
 * [Facebook](https://www.facebook.com/suncontractorg/)
@@ -37,7 +38,7 @@ Campaigns:
 Translations:
 * PM [this profile](https://bitcointalk.org/index.php?action=profile;u=1009934) on BitcoinTalk for translations of ANN or webpage.
 
-### Articles:
+### Articles in the media:
 
 Slovene:
 * [coin.si](https://coin.si/decentraliziran-energetski-trg-suncontract/)
