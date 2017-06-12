@@ -45,3 +45,4 @@ English:
 Slovene:
 * [coin.si](https://coin.si/decentraliziran-energetski-trg-suncontract/)
 * [contelegraph.si](https://cointelegraph.si/news/suncontract-slovenski-blockchain-projekt-za-trgovanje-z-energijo)
+* [finance.si](https://www.finance.si/8857870/Slovensko-podjetje-pretresa-trg-trgovanja-z-elektricno-energijo)
