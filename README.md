@@ -23,7 +23,7 @@ Social networks:
 Forums & chat
 * [BitcoinTalk ANN](https://bitcointalk.org/index.php?topic=1934763.0)
 * [Slack channel - invite only](https://suncontractteam.slack.com)
-  * *To receive invite link for the Slack channel, sign up at https://suncontract.org*
+  * *To receive invite link for the Slack channel, sign up at https://suncontract.org/#tokensale*
 
 ### Contributing:
 
@@ -41,6 +41,7 @@ Translations:
 ### Articles in the media:
 
 English:
+* [cointelegraph.com](https://cointelegraph.com/press-releases/suncontract-announces-tokensale-ico-for-june-28th)
 
 Slovene:
 * [coin.si](https://coin.si/decentraliziran-energetski-trg-suncontract/)
