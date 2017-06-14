@@ -5,6 +5,7 @@
 ### GitHub Wiki
 * [FAQ](https://github.com/SunContract/wiki/wiki/FAQ)
 * [White Paper](https://github.com/SunContract/wiki/wiki/White-Paper)
+* [FAQ ARK AMA](https://github.com/SunContract/wiki/wiki/FAQ-ARK-AMA)
 
 ### Resources
 * Official website https://suncontract.org
