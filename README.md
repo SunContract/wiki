@@ -26,6 +26,14 @@ Forums & chat
 * [Slack channel - invite only](https://suncontractteam.slack.com)
   * *To receive invite link for the Slack channel, sign up at https://suncontract.org/#tokensale*
 
+Announcements in other languages:
+* [Português (Portuguese)](https://bitcointalk.org/index.php?topic=1937069.0)
+* [Ελληνικά (Greek)](https://bitcointalk.org/index.php?topic=1937231.msg19235480#msg19235480)
+* [Русский (Russian)](https://bitcointalk.org/index.php?topic=1939147.0)
+* [India](https://bitcointalk.org/index.php?topic=1939638)
+* [Français (French)](https://bitcointalk.org/index.php?topic=1938282.0)
+* [Bahasa Indonesia (Indonesian)](https://bitcointalk.org/index.php?topic=1936743)
+
 ### Contributing:
 
 GitHub:
