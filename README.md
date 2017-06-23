@@ -9,7 +9,6 @@
 
 ### Resources
 * Official website https://suncontract.org
-* Chinese website: http://suncontract.cn
 
 Documents
 * [SunContract whitepaper (.pdf)](https://suncontract.org/res/whitepaper.pdf)
