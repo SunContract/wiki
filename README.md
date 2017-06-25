@@ -57,5 +57,6 @@ Slovene:
 * [coin.si](https://coin.si/decentraliziran-energetski-trg-suncontract/)
 * [contelegraph.si](https://cointelegraph.si/news/suncontract-slovenski-blockchain-projekt-za-trgovanje-z-energijo)
 * [finance.si](https://www.finance.si/8857870/Slovensko-podjetje-pretresa-trg-trgovanja-z-elektricno-energijo)
+* [finance.si interview](https://oe.finance.si/8858354/%28intervju%29-S-prodajo-kripto-zetonov-bodo-postavili-decentraliziran-trg-elektrike)
 * [racunalniske-novice.com](http://www.racunalniske-novice.com/novice/dogodki-in-obvestila/suncontract--trgovanje-z-elektricno-energijo-na-blockchainu.html)
 * [stromar.si](https://stromar.si/green-energy-trading-platform/)
