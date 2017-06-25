@@ -45,12 +45,12 @@ Campaigns:
 Translations:
 * PM [this profile](https://bitcointalk.org/index.php?action=profile;u=1009934) on BitcoinTalk for translations of ANN or webpage.
 
-### Articles in the media:
+### In the media:
 
 English:
 * [cointelegraph.com](https://cointelegraph.com/press-releases/suncontract-announces-tokensale-ico-for-june-28th)
 
-Turkey:
+Turkish:
 * [coin-turk.com](http://coin-turk.com/elektrik-enerji-projesi-suncontract-platformuyla-tanisin-ico-28-haziranda)
 
 Slovene:
@@ -59,4 +59,3 @@ Slovene:
 * [finance.si](https://www.finance.si/8857870/Slovensko-podjetje-pretresa-trg-trgovanja-z-elektricno-energijo)
 * [racunalniske-novice.com](http://www.racunalniske-novice.com/novice/dogodki-in-obvestila/suncontract--trgovanje-z-elektricno-energijo-na-blockchainu.html)
 * [stromar.si](https://stromar.si/green-energy-trading-platform/)
-* [linkedin.com](https://www.linkedin.com/pulse/green-energy-trading-platform-top-blockchain-ico-zdravstvena-info?trk=v-feed&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B%2Bw9C4EN6L%2B9zBmYvAnO8zw%3D%3D&trk=v-feed&lipi=urn%3Ali%3Apage%3Ad_flagship3_company%3BIWDPZaPconIW%2BYHHA7wgxA%3D%3D)
