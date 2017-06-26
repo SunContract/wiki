@@ -12,6 +12,10 @@
 
 Documents
 * [SunContract whitepaper (.pdf)](https://suncontract.org/res/whitepaper.pdf)
+* [Token Sale terms](https://suncontract.org/res/SuncontracttermsofICO_v7.pdf)
+
+Smart Contracts:
+* [Token Sale smart contracts](https://github.com/SunContract/SmartContracts)
 
 Social networks:
 * [Facebook](https://www.facebook.com/suncontractorg/)
