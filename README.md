@@ -2,6 +2,12 @@
 <img src="https://i.imgur.com/W7dAPBP.jpg">
 </p>
 
+### Token Sale
+ICO address: 0x5fb3D432bae33FCd418edE263D98D7440E7fA3ea * deposit ETH here *
+SNC Token address: 0xF4134146AF2d511Dd5EA8cDB1C4AC88C57D60404
+Recommended GAS limit: 200,000
+Data field: Optional
+
 ### GitHub Wiki
 * [FAQ](https://github.com/SunContract/wiki/wiki/FAQ)
 * [White Paper](https://github.com/SunContract/wiki/wiki/White-Paper)
