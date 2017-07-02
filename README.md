@@ -59,6 +59,7 @@ Translations:
 
 English:
 * [cointelegraph.com](https://cointelegraph.com/press-releases/suncontract-announces-tokensale-ico-for-june-28th)
+* [cryptocoinsnews.com](https://www.cryptocoinsnews.com/suncontract-token-sale-decentralized-energy-market/)
 
 Turkish:
 * [coin-turk.com](http://coin-turk.com/elektrik-enerji-projesi-suncontract-platformuyla-tanisin-ico-28-haziranda)
