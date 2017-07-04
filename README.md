@@ -72,3 +72,7 @@ Slovene:
 * [finance.si interview](https://oe.finance.si/8858354/%28intervju%29-S-prodajo-kripto-zetonov-bodo-postavili-decentraliziran-trg-elektrike)
 * [racunalniske-novice.com](http://www.racunalniske-novice.com/novice/dogodki-in-obvestila/suncontract--trgovanje-z-elektricno-energijo-na-blockchainu.html)
 * [stromar.si](https://stromar.si/green-energy-trading-platform/)
+
+### Reviews & analysis
+
+* [CoinTLDR](https://cointldr.com/suncontract-token-crowdsale)
