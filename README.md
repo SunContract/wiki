@@ -15,6 +15,7 @@
 
 ### Resources
 * Official website https://suncontract.org
+* Platform https://suncontract.energy
 
 Documents
 * [SunContract whitepaper (.pdf)](https://suncontract.org/res/whitepaper.pdf)
@@ -26,13 +27,15 @@ Smart Contracts:
 Social networks:
 * [Facebook](https://www.facebook.com/suncontractorg/)
 * [Twitter](https://twitter.com/sun_contract)
+* [Telegram] (https://t.me/joinchat/GL05EULsRTS7hxxMfXCTVw)
 * [LinkedIn](https://www.linkedin.com/company/22304821/)
 * [Reddit](https://www.reddit.com/r/suncontract/)
 
 Forums & chat
+* [MEDIUM] (https://medium.com/suncontract)
+* [SunContrac BLOG](https://blog.suncontract.org/en)
 * [BitcoinTalk ANN](https://bitcointalk.org/index.php?topic=1934763.0)
-* [Slack channel - invite only](https://suncontractteam.slack.com)
-  * *To receive invite link for the Slack channel, sign up at https://suncontract.org/#tokensale*
+* [Telegram] (https://t.me/joinchat/GL05EULsRTS7hxxMfXCTVw)
 
 Announcements in other languages:
 * [Português (Portuguese)](https://bitcointalk.org/index.php?topic=1937069.0)
