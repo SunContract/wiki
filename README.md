@@ -33,7 +33,7 @@ Social networks:
 
 Forums & chat
 * [MEDIUM](https://medium.com/suncontract)
-* [SunContrac BLOG](https://blog.suncontract.org/en)
+* [SunContract BLOG](https://blog.suncontract.org/en)
 * [BitcoinTalk ANN](https://bitcointalk.org/index.php?topic=1934763.0)
 * [Telegram](https://t.me/joinchat/GL05EULsRTS7hxxMfXCTVw)
 
