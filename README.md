@@ -35,7 +35,7 @@ Forums & chat
 * [MEDIUM](https://medium.com/suncontract)
 * [SunContrac BLOG](https://blog.suncontract.org/en)
 * [BitcoinTalk ANN](https://bitcointalk.org/index.php?topic=1934763.0)
-* [Telegram] (https://t.me/joinchat/GL05EULsRTS7hxxMfXCTVw)
+* [Telegram](https://t.me/joinchat/GL05EULsRTS7hxxMfXCTVw)
 
 Announcements in other languages:
 * [Português (Portuguese)](https://bitcointalk.org/index.php?topic=1937069.0)
