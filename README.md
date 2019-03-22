@@ -27,12 +27,12 @@ Smart Contracts:
 Social networks:
 * [Facebook](https://www.facebook.com/suncontractorg/)
 * [Twitter](https://twitter.com/sun_contract)
-* [Telegram] (https://t.me/joinchat/GL05EULsRTS7hxxMfXCTVw)
+* [Telegram](https://t.me/joinchat/GL05EULsRTS7hxxMfXCTVw)
 * [LinkedIn](https://www.linkedin.com/company/22304821/)
 * [Reddit](https://www.reddit.com/r/suncontract/)
 
 Forums & chat
-* [MEDIUM] (https://medium.com/suncontract)
+* [MEDIUM](https://medium.com/suncontract)
 * [SunContrac BLOG](https://blog.suncontract.org/en)
 * [BitcoinTalk ANN](https://bitcointalk.org/index.php?topic=1934763.0)
 * [Telegram] (https://t.me/joinchat/GL05EULsRTS7hxxMfXCTVw)
